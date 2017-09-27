@@ -1,0 +1,1 @@
+INSERT INTO estadisticas(Fecha,Temperatura,Hum_Aire,Litros,Arduino_IDArduino) VALUES(now(),23.0,66.5,50.0,'A');
